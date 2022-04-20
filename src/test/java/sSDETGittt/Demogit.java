@@ -7,6 +7,7 @@ public class Demogit {
 	public void demo()
 	{
 		System.out.println("FIRST COMMIT");
+		System.out.println("second cOMMIT");
 	}
 
 }
